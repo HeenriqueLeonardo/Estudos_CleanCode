@@ -1,2 +1,2 @@
 # Estudos_CleanCode
- Repositório para colocar estudos práticos do livro Clean Code
+ Repositório para colocar estudos práticos do livro Clean Code na linguagem C#
